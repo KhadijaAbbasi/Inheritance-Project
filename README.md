@@ -66,7 +66,7 @@ It helps users distribute assets fairly among heirs, following **Sunni Fiqh** or
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](main.png)
+![Home Page](Inheritance-Project/main.png)
 
 ### Home Page
 ![Home Page](home.png)
