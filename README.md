@@ -66,13 +66,16 @@ It helps users distribute assets fairly among heirs, following **Sunni Fiqh** or
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](main.png)
+
+### Home Page
+![Home Page](home.png)
 
 ### Services
-![services](screenshots/services.png)
+![services](services.png)
 
 ### Ahadith
-![Ahadith](screenshots/ahadith.png)
+![Ahadith](ahadith.png)
 
 ### Portal
-![Portal](screenshots/portal.png)
+![Portal](portal.png)
